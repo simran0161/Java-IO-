@@ -1,0 +1,3 @@
+INFO: 7
+ERROR: 4
+WARN: 4

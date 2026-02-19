@@ -1,0 +1,15 @@
+INFO User logged in successfully
+WARN Disk space running low
+ERROR Failed to connect to database
+INFO Data processed
+INFO Configuration loaded
+WARN Memory usage high
+ERROR Null pointer exception
+INFO Request completed
+WARN Deprecated API used
+ERROR File not found
+INFO User session started
+INFO Cache cleared
+WARN Slow response time detected
+ERROR Index out of range
+INFO Job completed

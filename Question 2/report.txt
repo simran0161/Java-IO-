@@ -1,0 +1,9 @@
+Total files: 7
+Total Directory: 3
+Total size: 1329
+
+File Name: files3.txt has size 559
+File Name: files4.txt has size 407
+File Name: files2.txt has size 208
+File Name: files1.txt has size 94
+File Name: files7.txt has size 40

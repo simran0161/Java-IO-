@@ -1,0 +1,3 @@
+This is a small test file.
+Used for directory scanning practice.
+Java NIO Files.walk example.
