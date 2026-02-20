@@ -1,0 +1,25 @@
+System Log Report
+
+INFO User logged in
+INFO Configuration loaded
+WARN Disk usage at 75%
+INFO Scheduled job started
+ERROR Database connection timeout
+INFO Retrying connection
+INFO Connection successful
+WARN API response slow
+INFO Data processed
+ERROR File not found exception
+INFO Backup completed
+
+This file contains multiple log entries to increase its size.
+Repeated lines below:
+
+INFO Sample log entry
+INFO Sample log entry
+INFO Sample log entry
+INFO Sample log entry
+INFO Sample log entry
+INFO Sample log entry
+INFO Sample log entry
+INFO Sample log entry
